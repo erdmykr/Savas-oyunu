@@ -1,4 +1,4 @@
-#Author: Erdem1
+#Author: Ramazan OSMANOĞLU
 import random
 import time
 from msvcrt import getch
